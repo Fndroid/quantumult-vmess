@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/quantumult-vmess/precache-manifest.c044121d322d1b3c81324e37452e8f87.js"
+  "/quantumult-vmess/precache-manifest.ea504b9488750f9948c44b0b6c41724e.js"
 );
 
 self.addEventListener('message', (event) => {
