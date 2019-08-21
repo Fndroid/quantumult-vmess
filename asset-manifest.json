@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/quantumult-vmess/static/css/main.e220fb32.chunk.css",
-    "main.js": "/quantumult-vmess/static/js/main.b870d550.chunk.js",
-    "main.js.map": "/quantumult-vmess/static/js/main.b870d550.chunk.js.map",
+    "main.css": "/quantumult-vmess/static/css/main.0e3c9c84.chunk.css",
+    "main.js": "/quantumult-vmess/static/js/main.f5096dfb.chunk.js",
+    "main.js.map": "/quantumult-vmess/static/js/main.f5096dfb.chunk.js.map",
     "runtime~main.js": "/quantumult-vmess/static/js/runtime~main.e22ab34e.js",
     "runtime~main.js.map": "/quantumult-vmess/static/js/runtime~main.e22ab34e.js.map",
     "static/js/2.c46d9a49.chunk.js": "/quantumult-vmess/static/js/2.c46d9a49.chunk.js",
     "static/js/2.c46d9a49.chunk.js.map": "/quantumult-vmess/static/js/2.c46d9a49.chunk.js.map",
     "index.html": "/quantumult-vmess/index.html",
-    "precache-manifest.22efe73a2477c9199beb48bb0f29c610.js": "/quantumult-vmess/precache-manifest.22efe73a2477c9199beb48bb0f29c610.js",
+    "precache-manifest.0b7d7001c54a44de4cf2bbabee4881cf.js": "/quantumult-vmess/precache-manifest.0b7d7001c54a44de4cf2bbabee4881cf.js",
     "service-worker.js": "/quantumult-vmess/service-worker.js",
-    "static/css/main.e220fb32.chunk.css.map": "/quantumult-vmess/static/css/main.e220fb32.chunk.css.map"
+    "static/css/main.0e3c9c84.chunk.css.map": "/quantumult-vmess/static/css/main.0e3c9c84.chunk.css.map"
   }
 }
