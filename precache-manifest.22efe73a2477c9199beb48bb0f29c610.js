@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3eee1cde666cc276fd5d316bfe8b95ce",
+    "revision": "6cd35af77e53ba06976ee9802035afb9",
     "url": "/quantumult-vmess/index.html"
   },
   {
-    "revision": "40d2c415532844038fbd",
+    "revision": "5a474b2500789b2b778d",
     "url": "/quantumult-vmess/static/css/main.e220fb32.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/quantumult-vmess/static/js/2.c46d9a49.chunk.js"
   },
   {
-    "revision": "40d2c415532844038fbd",
-    "url": "/quantumult-vmess/static/js/main.ad30d7e9.chunk.js"
+    "revision": "5a474b2500789b2b778d",
+    "url": "/quantumult-vmess/static/js/main.b870d550.chunk.js"
   },
   {
     "revision": "25f1b13868d74736cc5e",
