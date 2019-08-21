@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d2a247a8e1fbab53b00ce4e4127d890b",
+    "revision": "a9865ca269c5a3ac05e7f9aabedd1275",
     "url": "/quantumult-vmess/index.html"
   },
   {
